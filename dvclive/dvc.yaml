@@ -7,5 +7,5 @@ plots:
     x: step
 artifacts:
   lightning-model:
-    path: ../mymodel/epoch=9-step=6250-v2.ckpt
+    path: ../mymodel/epoch=1-step=1250.ckpt
     type: model
