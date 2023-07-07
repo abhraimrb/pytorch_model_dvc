@@ -1,0 +1,11 @@
+params:
+- params.yaml
+metrics:
+- metrics.json
+plots:
+- plots/metrics:
+    x: step
+artifacts:
+  lightning-model:
+    path: ../mymodel/epoch=9-step=6250-v2.ckpt
+    type: model
