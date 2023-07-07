@@ -5,3 +5,6 @@
 /epoch=9-step=6250.ckpt
 /epoch=9-step=6250-v1.ckpt
 /epoch=9-step=6250-v2.ckpt
+/epoch=0-step=625-v2.ckpt
+/epoch=0-step=704.ckpt
+/epoch=4-step=3520.ckpt
